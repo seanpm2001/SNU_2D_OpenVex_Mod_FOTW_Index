@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="756px" height="504px" viewBox="-0.4 -0.4 1.5 1">
+	<title>Flag of Flags of the World</title>
+
+	<defs>
+		<g id="star">
+			<g id="cone">
+				<polygon id="triangle" points="0,0 0,-1 -0.5,-1" transform="translate(0,1) rotate(18)"/>
+				<use xlink:href="#triangle" transform="scale(-1,1)"/>
+			</g>
+			<use xlink:href="#cone" transform="rotate(72)"/>
+			<use xlink:href="#cone" transform="rotate(144)"/>
+			<use xlink:href="#cone" transform="rotate(216)"/>
+			<use xlink:href="#cone" transform="rotate(288)"/>
+		</g>
+		<use id="outstar" xlink:href="#star" transform="rotate(72 0,1) translate(0,2) rotate(180)"/>
+	</defs>
+
+	<rect id="field" x="-0.4" y="-0.4" width="100%" height="100%" fill="blue"/>
+	<rect id="whiteband" x="-0.4" y="-0.4" width="0.4" height="100%" fill="white"/>
+	<g id="stars" transform="scale(0.105572809000084121436330532507489505823753) translate(0,0.25)">
+		<use xlink:href="#star" fill="black"/>
+		<use xlink:href="#outstar" fill="red"/>
+		<use xlink:href="#outstar" fill="blue" transform="rotate(72)"/>
+		<use xlink:href="#outstar" fill="#0c0" transform="rotate(144)"/>
+		<use xlink:href="#outstar" fill="white" transform="rotate(216)"/>
+		<use xlink:href="#outstar" fill="yellow" transform="rotate(288)"/>
+	</g>
+</svg>
+
