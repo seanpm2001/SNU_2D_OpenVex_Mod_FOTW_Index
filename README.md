@@ -1,6 +1,97 @@
 
 ***
 
+# SNU_2D_Vexilollogy_Mod_FOTW {
+
+Flags of the world recreation website
+
+## INDEX {
+
+Sort by all time (not available due to 100 gigabyte limit)
+
+Sort by year {
+
+2021 repo
+
+2020 repo 
+
+and earlier
+
+}
+
+## Sort by season {
+
+2021 season 2 (April 1st – June 30th)
+
+2021 season 1 (January 1st – March 31st)
+
+2020 season 4 (October 1st – December 31st)
+
+2020 season 3 (July 1st – September 30th)
+
+2020 season 2 (April 1st – June 30th)
+
+2020 season 1 (January 1st – March 31st)
+
+and earlier
+
+}
+
+CANNOT START DUE TO ERROR 1: SITE DATA NOT FOUND (HTML STRUCTURE MISSING)
+
+## Ideas
+
+HTML data for info:
+
+Part of the SNU Vexilollogy project
+
+GIF mode, PNG mode, SVG mode, Mixed mode
+
+No skeuomorphic mode is needed, the site gives off a good classic Internet site feeling, which is equal to skeuomorphism in terms of detail
+
+## Main repository: 
+
+Time machine: .cte (etc. backwards from 2020 and below) 2020 { 01 02 03 04 05 06 07 08 09 10 11 12 } 2021 { 01 02 03 04 05 06 }
+
+SNU flag, ANTI-FANG flag
+
+Convert to emoji, flagspeech translator built-in
+
+## Extra features:
+
+* It is a SNU mirror, in the USA, running Linux
+
+* It has version history control, meaning you can view the history of the site by the week, or month (by branch)
+
+## Issues:
+
+Can’t be uploaded manually, due to truncation
+
+May have to limit amount of edits due to 100 GB size (maybe split into yearly, monthly, and weekly repos, monthly being separate per year, and weekly being 
+
+separate per season (3 months)) {
+
+SNU_2D_Vexilollogy_Mod_FOTW_Archives_2021
+
+SNU_2D_Vexilollogy_Mod_FOTW_Archives_2021_S1
+
+etc.
+
+}
+
+Lots of maintenance
+
+Git install required
+
+Possible copyright issues
+
+Difficulty accessing all data
+
+}
+
+<!--
+***
+
 # <projectName>
 
 ![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
@@ -293,3 +384,4 @@ Version 2 (Coming soon)
 ### EOF
 
 ***
+!-->
