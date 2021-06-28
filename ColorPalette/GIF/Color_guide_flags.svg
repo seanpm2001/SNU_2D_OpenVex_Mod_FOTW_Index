@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="850">
+<g style="line-height:1.8;font-family:'Arial Black';font-size:36px;text-align:start;text-anchor:start;fill:#000">
+<text x="46" y="61" font-weight="bold">++<tspan x=""></tspan><tspan x="131">+</tspan><tspan x="283">−</tspan><tspan x="344">−−</tspan></text>
+<text x="442" y="142">Black (N)</text>
+<text x="442" y="208">Grey (G)</text>
+<text x="442" y="274">Red (R)</text>
+<text x="442" y="340">Blue (B)</text>
+<text x="442" y="406">Green (V)</text>
+<text x="442" y="472">Yellow (Y)</text>
+<text x="442" y="538">Brown (M)</text>
+<text x="442" y="604">Orange (O)</text>
+<text x="442" y="670">Purple (P)</text>
+<text x="442" y="736">Gold (Au)</text>
+<text x="442" y="802">White (W)</text>
+</g>
+<path fill="none" stroke="#000" stroke-width="5" d="m18,76h400v735"/>
+
+<g stroke-width="50" stroke-linecap="square">
+<path stroke="#000" d="m221,131h.1"/>
+
+<path stroke="#333" d="m67,197h.1"/>
+<path stroke="#666" d="m144,197h.1"/>
+<path stroke="#999" d="m221,197h.1"/>
+<path stroke="#CCC" d="m298,197h.1"/>
+
+<path stroke="#900" d="m67,263h.1"/>
+<path stroke="#C00" d="m144,263h.1"/>
+<path stroke="#F00" d="m221,263h.1"/>
+<path stroke="#F33" d="m298,263h.1"/>
+<path stroke="#F66" d="m375,263h.1"/>
+
+<path stroke="#009" d="m67,329h.1"/>
+<path stroke="#00C" d="m144,329h.1"/>
+<path stroke="#00F" d="m221,329h.1"/>
+<path stroke="#39F" d="m298,329h.1"/>
+<path stroke="#3CF" d="m375,329h.1"/>
+
+<path stroke="#060" d="m67,395h.1"/>
+<path stroke="#090" d="m144,395h.1"/>
+<path stroke="#0C0" d="m221,395h.1"/>
+<path stroke="#0F3" d="m298,395h.1"/>
+<path stroke="#6F6" d="m375,395h.1"/>
+
+<path stroke="#FC0" d="m144,461h.1"/>
+<path stroke="#FF0" d="m221,461h.1"/>
+<path stroke="#FF9" d="m298,461h.1"/>
+<path stroke="#FFC" d="m375,461h.1"/>
+
+<path stroke="#300" d="m144,527h.1"/>
+<path stroke="#630" d="m221,527h.1"/>
+<path stroke="#960" d="m298,527h.1"/>
+
+<path stroke="#F60" d="m221,593h.1"/>
+<path stroke="#F90" d="m298,593h.1"/>
+
+<path stroke="#609" d="m221,659h.1"/>
+
+<path stroke="#FC3" d="m221,725h.1"/>
+
+<path stroke="#CCC" d="m221,791h.1" stroke-width="51"/>
+<path stroke="#FFF" d="m221,791h.1"/>
+</g>
+</svg>
